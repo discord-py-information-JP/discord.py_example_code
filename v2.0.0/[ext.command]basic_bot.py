@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 import random
 
-description = ''''''
+description = '''discord.ext.commandの一番最低限なBot'''
 
 intents = discord.Intents.default()
 intents.members = True
